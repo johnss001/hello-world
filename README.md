@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+When life give you lemons... make lemonade.
